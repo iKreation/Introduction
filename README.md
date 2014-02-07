@@ -1,10 +1,6 @@
 Kreation
 =====
 
-About
-=====
-kreation
-
 What's in for you
 =====
 things
