@@ -1,4 +1,4 @@
-intro
+Introduction
 =====
 
 Introduction
