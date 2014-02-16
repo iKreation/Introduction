@@ -82,7 +82,7 @@ You would be unwise to not consider the methods, tools, and ideas of others. How
 
 I have found that the best decisions I’ve made have followed significant thought and discussion, rather than hastily making a decision.
 
-**7. There will be times when you will be required to use your best judgment and ask for forgiveness later if necessary.*
+**7. There will be times when you will be required to use your best judgment and ask for forgiveness later if necessary.**
 
 Don’t let fear of reprehension prevent you from accomplishing great things or from resolving problems when time is of the essence.
 
