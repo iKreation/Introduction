@@ -1,6 +1,3 @@
-Kreation
-=====
-
 What's in for you
 =====
 - Experience in a start-up environment.
