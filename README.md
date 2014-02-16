@@ -29,7 +29,7 @@ Attitude
 - Interested in gaining holistic knowledge of the company
 - Wants to feel part of the kreation and work for kreation future, not blindy implementing what is asked, but criticaly pushing what benefits kreation more
 - Enjoy the process of good software engineering
-- Willingness to work many hours inside a highly motivated team that aims to change the way people find accomodation
+- Willingness to work many hours inside a highly motivated team that aims to change the way people interact with the city
 - Strong sense of ownership
 - Self-disciplined
 - Analytical
